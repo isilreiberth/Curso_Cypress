@@ -1,0 +1,21 @@
+{
+  "name": "curso_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open":"cypress open --browser chrome --e2e"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "javascript",
+    "typescript"
+  ],
+  "author": "isilreiberth perez",
+  "license": "ISC",
+  "devDependencies": {
+  "cypress": "^12.5.1"
+  }
+}
